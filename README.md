@@ -1,1 +1,3 @@
-# Creating_APIs_For_Machine_Learning_Models_With_FastAPI_Python
+## To run:
+### uvicorn main:app --reload
+### And then open the index.html
